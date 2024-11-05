@@ -1,4 +1,4 @@
 # portfolio-minimalistic
 idk feel free to skid ts idc
 #
-![alt text]([http://url/to/img.png](https://github.com/xjig/portfolio-minimalistic/blob/main/Screenshot%202024-11-05%20194935.png?raw=true))
+![Screenshot 2024-11-05 194935](https://github.com/user-attachments/assets/e3f9771b-dec7-4f8e-bc1e-d43a7f9dd14e)
